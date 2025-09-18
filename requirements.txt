@@ -1,0 +1,23 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+
+# Visualization 
+matplotlib
+seaborn
+
+# Optional for statistical analysis (if used in predictive notebooks)
+statsmodels
+scipy
+
+# Jupyter notebook support (if you use notebooks locally)
+jupyter
+notebook
+
+# To create a virtual environment locally 
+# python3 -m venv .venv
+# source .venv/bin/activate  # Linux/Mac
+# .venv\Scripts\activate     # Windows
+# pip install -r requirements.txt
