@@ -28,13 +28,15 @@ It uses **Streamlit** for the frontend and a trained **scikit-learn pipeline** f
    ```bash
    git clone https://github.com/<your-username>/laptop-price-predictor.git
    cd laptop-price-predictor
-```
+
 2. Create a virtual environment (recommended):
    ```bash
    python -m venv .venv
-   source .venv/bin/activate   # On Linux/Mac
-   .venv\Scripts\activate      # On Windows
-```
+# On Linux/Mac:
+   source .venv/bin/activate
+# On Windows:
+   .venv\Scripts\activate
+
 3. Install dependencies:
 ```bash
    pip install -r requirements.txt
