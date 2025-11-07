@@ -32,9 +32,9 @@ It uses **Streamlit** for the frontend and a trained **scikit-learn pipeline** f
 2. Create a virtual environment (recommended):
    ```bash
    python -m venv .venv
-# On Linux/Mac:
+   # On Linux/Mac:
    source .venv/bin/activate
-# On Windows:
+   # On Windows:
    .venv\Scripts\activate
 
 3. Install dependencies:
